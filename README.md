@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Привет, я [IDMEOW]
+# 👋 Hi, i`m idmeow
 
 ### 🎮 Pixel Art Developer | 💻 Code Creator | 🌱 Learning Every Day
 
