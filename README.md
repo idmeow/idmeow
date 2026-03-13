@@ -28,9 +28,9 @@ I am currently exploring the world of code. Here is what I'm working on:
 ## 📊 GitHub Stats
 
 <!-- Using a pastel theme for the stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A&icon_color=FF69B4)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idmeow&show_icons=true&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A&icon_color=FF69B4)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idmeow&layout=compact&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A)
 
 ---
 
