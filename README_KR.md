@@ -31,6 +31,7 @@
 ## 📊 GitHub 통계
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idmeow&show_icons=true&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A&icon_color=FF69B4)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=idmeow&layout=compact&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A)
 
 ---
 
