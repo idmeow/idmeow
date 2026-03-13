@@ -14,6 +14,13 @@
 
 ---
 
+╔═══════════════════════════════════════╗
+║  🖥️  Beginner Developer               ║
+║  ☕  Powered by Coffee & Tea          ║
+║  🌱  Currently learning: Unity & Go   ║
+║  🌙  Dreaming in Pixel Art            ║
+╚═══════════════════════════════════════╝
+
 I am currently exploring the world of code. Here is what I'm working on:
 
 | Language | Level | Status |
@@ -36,9 +43,7 @@ I am currently exploring the world of code. Here is what I'm working on:
 
 ## 📬 Let's Connect!
 
-[![Email](https://img.shields.io/badge/Email-FFB7B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
-[![Telegram](https://img.shields.io/badge/Telegram-A2D2FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_nick)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
+[![Discord](https://img.shields.io/badge/Discord-CDB4DB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yumk1)
 
 ---
 
