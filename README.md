@@ -14,13 +14,6 @@
 
 ---
 
-╔═══════════════════════════════════════╗
-║  🖥️  Beginner Developer               ║
-║  ☕  Powered by Coffee & Tea          ║
-║  🌱  Currently learning: Unity & Go   ║
-║  🌙  Dreaming in Pixel Art            ║
-╚═══════════════════════════════════════╝
-
 I am currently exploring the world of code. Here is what I'm working on:
 
 | Language | Level | Status |
