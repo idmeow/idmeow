@@ -10,8 +10,42 @@
 
 ### 🎮 게임 개발 지망생 | 🐍 Python | 🐹 Go | 💻 C# | 🧊 Unity
 
-> *"코딩은 픽셀 아트로 세상을 만드는 것과 같아요."*
-
 ---
 
 ## 🏠 소개
+
+## 🛠️ 기술 스택 (학습 과정)
+
+
+지금 코딩의 세계를 탐험하고 있습니다:
+
+| 언어 | 레벨 | 상태 |
+| :---: | :---: | :---: |
+| **Python** 🐍 | 초급 | 🟢 기초 학습 중 |
+| **Go** 🐹 | 초급 | 🟡 막 시작했어요 |
+| **C#** 💻 | 초급 | 🟡 문법 학습 중 |
+| **Unity** 🧊 | 초급 | 🔴 첫 프로젝트 제작 중 |
+
+---
+
+## 📊 GitHub 통계
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=idmeow&show_icons=true&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A&icon_color=FF69B4)
+
+---
+
+## 📬 연락하기
+
+[![Discord](https://img.shields.io/badge/Discord-CDB4DB?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/yumk1)
+
+---
+
+<div align="center">
+
+### ✨ 방문해주셔서 감사합니다! ✨
+
+![Moon](https://img.shields.io/badge/🌙-좋은_꿈_꿔요-pink?style=for-the-badge)
+
+⌨️  와 픽셀 아트로 만들었습니다
+
+</div>
