@@ -6,10 +6,8 @@
 <!-- LANGUAGE SWITCHER -->
 [🇺🇸 English](README.md) | [🇰 한국어](README_KR.md)
 
-<!-- WELCOME IMAGE -->
-![Welcome](ссылка_на_изображение_1)
 
-# 👋 안녕하세요, [이름] 입니다!
+# 👋 안녕하세요, idmeow 입니다!
 
 ### 🎮 게임 개발 지망생 | 🐍 Python | 🐹 Go | 💻 C# | 🧊 Unity
 
