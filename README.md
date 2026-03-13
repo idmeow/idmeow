@@ -11,3 +11,43 @@
 ---
 
 ## 🏠 About me
+
+---
+
+I am currently exploring the world of code. Here is what I'm working on:
+
+| Language | Level | Status |
+| :---: | :---: | :---: |
+| **Python** 🐍 | Beginner | 🟢 Learning Basics |
+| **Go** 🐹 | Beginner | 🟡 Just Started |
+| **C#** 💻 | Beginner | 🟡 Learning Syntax |
+| **Unity** 🧊 | Beginner | 🔴 Building First Scenes |
+
+---
+
+## 📊 GitHub Stats
+
+<!-- Using a pastel theme for the stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A&icon_color=FF69B4)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical&bg_color=FFD1DC&title_color=4A4A4A&text_color=4A4A4A)
+
+---
+
+## 📬 Let's Connect!
+
+[![Email](https://img.shields.io/badge/Email-FFB7B2?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+[![Telegram](https://img.shields.io/badge/Telegram-A2D2FF?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your_nick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-BDE0FE?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your_profile)
+
+---
+
+<div align="center">
+
+### ✨ Thanks for visiting my cozy corner! ✨
+
+![Moon](https://img.shields.io/badge/🌙-Sweet_Dreams-pink?style=for-the-badge)
+
+⌨️ Made with 💖 and Pixel Art
+
+</div>
