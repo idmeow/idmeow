@@ -2,6 +2,8 @@
 
 <div align="center">
 
+[🇺🇸 English](README.md) | [🇰 한국어](README_KR.md)
+
 # 👋 Hi, i`m idmeow
 
 ### 🎮 Pixel Art Developer | 💻 Code Creator | 🌱 Learning Every Day
